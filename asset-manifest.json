@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/kasturiyanews/static/css/main.496b3ae8.chunk.css",
+    "main.js": "/kasturiyanews/static/js/main.6e93d9bd.chunk.js",
+    "main.js.map": "/kasturiyanews/static/js/main.6e93d9bd.chunk.js.map",
+    "runtime-main.js": "/kasturiyanews/static/js/runtime-main.0afbedc3.js",
+    "runtime-main.js.map": "/kasturiyanews/static/js/runtime-main.0afbedc3.js.map",
+    "static/js/2.048db78c.chunk.js": "/kasturiyanews/static/js/2.048db78c.chunk.js",
+    "static/js/2.048db78c.chunk.js.map": "/kasturiyanews/static/js/2.048db78c.chunk.js.map",
+    "index.html": "/kasturiyanews/index.html",
+    "static/css/main.496b3ae8.chunk.css.map": "/kasturiyanews/static/css/main.496b3ae8.chunk.css.map",
+    "static/js/2.048db78c.chunk.js.LICENSE.txt": "/kasturiyanews/static/js/2.048db78c.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0afbedc3.js",
+    "static/js/2.048db78c.chunk.js",
+    "static/css/main.496b3ae8.chunk.css",
+    "static/js/main.6e93d9bd.chunk.js"
+  ]
+}
