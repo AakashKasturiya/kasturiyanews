@@ -1,0 +1,28 @@
+@import url('https://fonts.googleapis.com/css2?family=Girassol&display=swap');
+.nav{
+    height: 71px;
+    box-shadow: 0px 1px 8px #888888;
+    display: flex;
+    align-items: center;
+}
+.icon
+{
+    flex:0.48;
+}
+.logo-content {
+
+    display: flex;
+    align-items: center;
+    justify-items: center;
+    flex-direction: column;
+    text-align: center;
+}
+.logo-content h3{
+    font-size: 1.8rem;
+    font-weight: 500;
+    text-transform: capitalize;
+    line-height: 3rem;
+    font-family: 'Girassol', cursive;
+    color:rgba(0, 0, 0, 0.842);
+   
+}
